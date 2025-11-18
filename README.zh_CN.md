@@ -25,7 +25,7 @@
 
 项目传送门: [https://github.com/huanghanzhilian/c-shopping](https://github.com/huanghanzhilian/c-shopping)
 
-希望来的人，有所收获。故事不结束，青春不散场。
+
 
 ## 项目介绍
 
@@ -136,38 +136,5 @@
 
 6. 连接移动设备或模拟器以运行该应用程序。
 
-## 关于我
 
-I am a technology explorer, a eager learner, and a problem solver.
-<br/>
-我是一个技术的探索者，一个渴望学习的人，一个解决问题的人。
 
-- Email: [h1319639755@gmail.com](mailto:h1319639755@gmail.com)
-- Twitter: [继小鹏](https://twitter.com/Huanghanzhilian)
-- Github: [Github](https://github.com/huanghanzhilian)
-- Blog: [继小鹏](https://blog.huanghanlian.com/)
-- 我的中文渠道:
-  - 微博：[继小鹏1](https://weibo.com/u/5653497957)
-  - 微信公众号：「继小鹏的博客」
-  - 掘金：[继小鹏](https://juejin.cn/user/2119514150414686)
-  - 知乎：[继小鹏](https://www.zhihu.com/people/huang-han-zhi-lian)
-  - 即刻：[继小鹏](https://web.okjike.com/u/BA3424F7-4D6E-4A2C-BA7E-138B616EED05)
-  - bilibili：[继小鹏](https://space.bilibili.com/191128853)
-
-### 公众号｜我的微信
-
-关注公众号获得更多资讯，有任何意见或建议都欢迎提issue，或者到公众号留言；也欢迎加我微信交流。
-
-| 我的公众号                                                                                                                            | 我的微信                                                                                                                         |
-| ------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| <img alt="继小鹏公众号" src="https://public.huanghanlian.com/blog/article/4632461d-0d43-4378-bcf7-bb32bf0de950.jpeg" width="150"> | <img alt="我的微信" src="https://public.huanghanlian.com/blog/article/6f041fb6-2141-49d8-b20b-6e989687bf9a.png" width="150"> |
-
-## 贡献
-
-欢迎贡献！ 请提出问题或提交拉取请求。
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-This README provides a brief overview of the project's code structure and how to install and run the React Native app locally. Adjustments can be made to tailor it further to your specific project.
